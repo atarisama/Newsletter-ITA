@@ -20,8 +20,8 @@ Este proyecto es una pagiona web en la que el usuario puede introducir su email 
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/atarisama/Newsletter-ITA  
-Deploy: 
+Deploy: https://atarisama.github.io/Newsletter-ITA/
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+Esta actividad me ayudo a refrescar algunas areas de html y css, no tuve dificultades grandes mas allá de encontrar los colores y tamaños, pero fue divertido e interesante.
