@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Descripción
-Este proyecto es una pagiona web en la que el usuario puede introducir su email para suscribirse a Newsletter (No funcional).
+Este proyecto es una pagina web en la que el usuario puede introducir su email para suscribirse a Newsletter (No funcional).
 
 ---
 
